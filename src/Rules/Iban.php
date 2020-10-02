@@ -80,7 +80,7 @@ class Iban extends AbstractStringRule
         'AE' => 23,
         'GB' => 22,
         'VG' => 24,
-        'DZ' => 26,
+        'DZ' => 24,
         'AO' => 25,
         'BJ' => 28,
         'BF' => 27,
@@ -93,24 +93,7 @@ class Iban extends AbstractStringRule
         'ML' => 28,
         'MZ' => 25,
         'SN' => 28,
-        'UA' => 29,
-        'LC' => 32,
-        'ST' => 25,
-        'TG' => 28,
-        'TD' => 27,
-        'CF' => 27,
-        'HN' => 28,
-        'DJ' => 27,
-        'PM' => 27,
-        'RE' => 27,
-        'TF' => 27,
-        'PF' => 27,
-        'NC' => 27,
-        'YT' => 27,
-        'MQ' => 27,
-        'GF' => 27,
-        'WF' => 27,
-        'GP' => 27
+        'UA' => 29
     ];
 
     /**
